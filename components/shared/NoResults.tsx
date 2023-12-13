@@ -10,7 +10,7 @@ interface Props {
   linkTitle: string;
 }
 
-const NoResults = ({ title, description, link, linkTitle }) => {
+const NoResults = ({ title, description, link, linkTitle }:any) => {
   return (
     <div className="mt-10 flex w-full flex-col items-center justify-center">
       <Image
