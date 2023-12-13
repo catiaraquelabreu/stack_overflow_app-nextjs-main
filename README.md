@@ -1,3 +1,31 @@
+Welcome to DevFlow! 🌟
+
+DevFlow is an innovative project crafted in Next.js, designed as a StackOverflow clone. Here, users can seamlessly log in to the platform and pose questions by providing a title, their inquiry, and relevant tags. Moreover, this vibrant community allows users to engage by answering questions posted by others.
+
+What makes DevFlow stand out is its adaptability with both light and dark modes, ensuring a pleasant user experience. Its responsive design ensures accessibility across various devices, catering to users on the go.
+
+Key Technologies:
+
+Next.js;
+MongoDB;
+Node.js;
+Tailwind;
+Clerk;
+
+Work in progress...💻🧠
+
+![Screenshot (151)](https://github.com/catiaraquelabreu/stack_overflow_app-nextjs-main/assets/131707164/a5bfd4e4-94aa-4ca0-8c19-8cb1ba11415b)
+
+
+
+![Screenshot (152)](https://github.com/catiaraquelabreu/stack_overflow_app-nextjs-main/assets/131707164/6d7ccebe-b028-4417-90b4-0332305febee)
+
+
+
+![Screenshot (153)](https://github.com/catiaraquelabreu/stack_overflow_app-nextjs-main/assets/131707164/873ec0b5-e4c7-4fbb-8147-f2c25b6abc30)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
