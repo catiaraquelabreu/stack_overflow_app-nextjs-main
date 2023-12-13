@@ -13,6 +13,7 @@ Tailwind;
 Clerk;
 
 Work in progress...💻🧠
+Vercel link: https://stack-overflow-app-nextjs-main-587fxlwjf-catiaraquelabreu.vercel.app/
 
 ![Screenshot (151)](https://github.com/catiaraquelabreu/stack_overflow_app-nextjs-main/assets/131707164/a5bfd4e4-94aa-4ca0-8c19-8cb1ba11415b)
 
